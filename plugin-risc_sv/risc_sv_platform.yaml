@@ -1,0 +1,6 @@
+nmi:
+  implemented: false
+reset:
+  label: reset_vector
+mtime:
+  implemented: false
