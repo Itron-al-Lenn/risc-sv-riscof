@@ -1,0 +1,6 @@
+[submodule "riscv-arch-test"]
+	path = riscv-arch-test
+	url = git@github.com:riscv-non-isa/riscv-arch-test.git
+[submodule "RISC-SV"]
+	path = RISC-SV
+	url = git@github.com:Itron-al-Lenn/RISC-SV.git
